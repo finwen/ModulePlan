@@ -1,0 +1,20 @@
+{
+	"id" : "RoWah003",
+	"owner" : "Robert Wahlström",
+	"name"	: "Anthony Hill",
+	"sign": "",
+	
+	"modulenorm" : "amN",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Line",
+	"moduleAttribute" : [],
+	
+	"length" : 400,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

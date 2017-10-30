@@ -1,0 +1,21 @@
+{
+	"id" : "DaBer002",
+	"owner" : "Daniel Bergqvist",
+	"name"	: "Jessie Junction",
+	"sign": "JJ",
+	
+	"modulenorm" : "amN",
+	"moduleLayout" : "Custom",
+	"moduleType"   : "Junction",
+	
+	"length" : 1160,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" , "width": 400, "xoffset": 0, "yoffset":0,"angle":0, "connect":"4"},
+		{"type": "Single", "width": 400, "xoffset": 990, "yoffset":-410,"angle":45, "connect":"3"},
+		{"type": "single", "width": 400, "xoffset": -170, "yoffset":-410,"angle":45, "connect":"24"},
+		{"type": "Single", "width": 400, "xoffset": 820, "yoffset":-820,"angle":0, "connect":"13"},
+	]
+}

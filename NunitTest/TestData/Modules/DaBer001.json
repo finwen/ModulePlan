@@ -1,0 +1,20 @@
+{
+	"id" : "DaBer001",
+	"owner" : "Daniel Bergqvist",
+	"name"	: "Capone",
+	"sign": "Cap",
+	
+	"modulenorm" : "amN",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Station",
+	"moduleAttribute" : [ "Goods", "Passenger"],
+	
+	"length" : 2440,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

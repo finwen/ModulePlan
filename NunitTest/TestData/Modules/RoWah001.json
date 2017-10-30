@@ -1,0 +1,20 @@
+{
+	"id" : "RoWah001",
+	"owner" : "Robert Wahlström",
+	"name"	: "Klinten 1",
+	"sign": "",
+	
+	"modulenorm" : "N-RE",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Line",
+	"moduleAttribute" : [],
+	
+	"length" : 500,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

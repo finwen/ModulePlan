@@ -1,0 +1,19 @@
+{
+	"id" : "DaBer005",
+	"owner" : "Daniel Bergqvist",
+	"name"	: "Ratata",
+	"sign": "",
+	
+	"modulenorm" : "amN",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "TurnTable",
+	
+	"length" : 400,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "None" },
+	]
+}

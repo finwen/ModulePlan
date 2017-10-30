@@ -1,0 +1,20 @@
+{
+	"id" : "DaBer004",
+	"owner" : "Daniel Bergqvist",
+	"name"	: "Dalton Plains",
+	"sign": "DP",
+	
+	"modulenorm" : "amN",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Line",
+	"moduleAttribute" : ["Goods"],
+	
+	"length" : 1165,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

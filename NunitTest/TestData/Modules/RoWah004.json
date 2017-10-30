@@ -1,0 +1,20 @@
+{
+	"id" : "RoWah004",
+	"owner" : "Robert Wahlström",
+	"name"	: "",
+	"sign": "",
+	
+	"modulenorm" : "N-Re",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Line",
+	"moduleAttribute" : [],
+	
+	"length" : 660,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

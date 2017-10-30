@@ -1,0 +1,18 @@
+{
+	"id" : "HaBra001",
+	"owner" : "Hans Brage",
+	
+	"modulenorm" : "N-RE",
+	"moduleLayout" : "Rect",
+	"moduleType"   : "Line",
+	"moduleAttribute" : [],
+	
+	"length" : 1000,
+	"width" : 400,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}

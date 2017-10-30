@@ -1,0 +1,18 @@
+{
+	"id" : "HaBra004",
+	"owner" : "Hans Brage",
+	
+	"modulenorm" : "N-RE",
+	"moduleLayout" : "Curve",
+	"moduleType"   : "Line",
+	"moduleAttribute" : [],
+	
+	"radius" : 1181,
+	"angle" : 22.5,
+	
+	joints : 
+	[
+		{"type": "single" },
+		{"type": "Single" },
+	]
+}
