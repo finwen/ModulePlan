@@ -15,12 +15,13 @@ namespace ModulPlan
 
     public class Joint
     {
-        JointType type;
+        public string type;
+        JointType Jointtype;
 
         // If different from standard
-        int width;
-        int xOffset;
-        int yOffset;
-        float angle;
+        public int width;
+        public int xOffset;
+        public int yOffset;
+        public float angle;
     }
 }
